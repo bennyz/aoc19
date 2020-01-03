@@ -33,4 +33,3 @@ fn read_lines() {
 fn main() {
     read_lines()
 }
-
